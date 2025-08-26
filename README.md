@@ -38,17 +38,15 @@ Tools & Others: Git/GitHub, APIs, Web Scraping<br>
 
 🌍 Languages
 
-🇧🇷 Portuguese (Native)
-
-🇬🇧 English (Fluent)
-
+🇧🇷 Portuguese (Native)<br>
+🇬🇧 English (Fluent)<br>
 🇪🇸 Spanish (Advanced)
 
 Let's Connect
 
-🌐 [Portfolio Website](https://costaclara.github.io)
-💼 [LinkedIn](https://LINKEDIN.COM/IN/CLARA-SANTOS-COSTA)
-📊 [GitHub](https://github.com/costaclara)  
-📝 [LeetCode](https://leetcode.com/u/costaclara4/)
-🌱 [Medium](https://medium.com/@csc.clara4)
+🌐 [Portfolio Website](https://costaclara.github.io)<br>
+💼 [LinkedIn](https://LINKEDIN.COM/IN/CLARA-SANTOS-COSTA)<br>
+📊 [GitHub](https://github.com/costaclara)<br>
+📝 [LeetCode](https://leetcode.com/u/costaclara4/)<br>
+🌱 [Medium](https://medium.com/@csc.clara4)<br>
 
