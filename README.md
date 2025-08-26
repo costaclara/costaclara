@@ -41,7 +41,7 @@ Tools & Others: Git/GitHub, Azure (Synapse, Blob Storage), SAP S/4 HANA, APIs, W
 🇧🇷 Portuguese (Native)<br>
 us English (Fluent)<br>
 🇪🇸 Spanish (Advanced)<br>
-FR French (Intermediate)<br>
+🇫🇷 French (Intermediate)<br>
 
 **Let's Connect**
 
