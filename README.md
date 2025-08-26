@@ -31,10 +31,10 @@ I hold two MBAs — Data Science & Analytics and Corporate Finance (Controllersh
 
 🛠️ **Tech Stack**
 
-Programming & Data: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL(MySQL, PostgreSQL), ML – Linear and Logistic Regression models, KNN, and K-Means (Clustering)<br>
-Data Visualization & Analytics: Power BI, Tableau, Advanced Excel (VBA, Power Query, Power Pivot) <br>
-Finance: Financial Modeling (Valuation, DCF, Financial Projections), Forecasting & Budgeting (Building and monitoring predictive models) <br>
-Tools & Others: Git/GitHub, Azure (Synapse, Blob Storage), SAP S/4 HANA, APIs, Web Scraping<br>
+- **Programming & Data:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL(MySQL, PostgreSQL), ML – Linear and Logistic Regression models, KNN, and K-Means (Clustering)<br>
+- **Data Visualization & Analytics:** Power BI, Tableau, Advanced Excel (VBA, Power Query, Power Pivot) <br>
+- **Finance:** Financial Modeling (Valuation, DCF, Financial Projections), Forecasting & Budgeting (Building and monitoring predictive models) <br>
+- **Tools & Others:** Git/GitHub, Azure (Synapse, Blob Storage), SAP S/4 HANA, APIs, Web Scraping<br>
 
 🌍 **Languages**
 
