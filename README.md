@@ -25,21 +25,16 @@ I hold two MBAs — Data Science & Analytics and Corporate Finance (Controllersh
 
 🚀 What I Do
 
-📊 Finance & Strategy: FP&A cycle management (budget, forecast, outlook), cost optimization, and strategic decision support.
-
-📈 Data Analytics: Building dashboards, performance models, and decision-making tools with Power BI, Python, SQL, and Excel.
-
+📊 Finance & Strategy: FP&A cycle management (budget, forecast, outlook), cost optimization, and strategic decision support.<br>
+📈 Data Analytics: Building dashboards, performance models, and decision-making tools with Power BI, Python, SQL, and Excel.<br>
 🤝 Collaboration: Skilled in bridging business & data, translating insights into measurable outcomes.
 
 🛠️ Tech Stack
 
-Programming & Data: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL
-
-Data Visualization: Power BI, Tableau
-
-Finance & Analytics: Advanced Excel, Financial Modeling, Forecasting
-
-Tools & Others: Git/GitHub, APIs, Web Scraping
+Programming & Data: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL<br>
+Data Visualization: Power BI, Tableau<br>
+Finance & Analytics: Advanced Excel, Financial Modeling, Forecasting<br>
+Tools & Others: Git/GitHub, APIs, Web Scraping<br>
 
 🌍 Languages
 
