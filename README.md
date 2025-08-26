@@ -47,7 +47,7 @@ Tools & Others: Git/GitHub, APIs, Web Scraping
 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://costaclara.github.io)
-💼 LinkedIn(https://LINKEDIN.COM/IN/CLARA-SANTOS-COSTA)
+💼 [LinkedIn](https://LINKEDIN.COM/IN/CLARA-SANTOS-COSTA)
 📊 GitHub(https://github.com/costaclara)  
 📝 LeetCode(https://leetcode.com/u/costaclara4/)
 [![Medium](https://medium.com/@csc.clara4)
