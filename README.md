@@ -26,35 +26,27 @@ I hold two MBAs — Data Science & Analytics and Corporate Finance (Controllersh
 🚀 What I Do
 
 📊 Finance & Strategy: FP&A cycle management (budget, forecast, outlook), cost optimization, and strategic decision support.
-
 📈 Data Analytics: Building dashboards, performance models, and decision-making tools with Power BI, Python, SQL, and Excel.
-
 🤝 Collaboration: Skilled in bridging business & data, translating insights into measurable outcomes.
 
 🛠️ Tech Stack
 
 Programming & Data: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL
-
 Data Visualization: Power BI, Tableau
-
 Finance & Analytics: Advanced Excel, Financial Modeling, Forecasting
-
 Tools & Others: Git/GitHub, APIs, Web Scraping
 
 🌍 Languages
 
 🇧🇷 Portuguese (Native)
-
 🇬🇧 English (Fluent)
-
 🇪🇸 Spanish (Advanced)
 
 Let's Connect
 
-🌐 Portfolio Website
+🌐 Portfolio Website(https://costaclara.github.io)
+💼 LinkedIn(https://LINKEDIN.COM/IN/CLARA-SANTOS-COSTA)
+📊 GitHub(https://github.com/costaclara)  
+📝 LeetCode(https://leetcode.com/u/costaclara4/)
+[![Medium](https://medium.com/@csc.clara4)
 
-💼 LinkedIn
-
-📊 GitHub
-
-📝 LeetCode
