@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Clara Costa
+👋 Hi, I'm **Clara Costa**
 
 💡 Finance & Data Professional | FP&A | Data Analytics | Strategic Planning
 
@@ -23,26 +23,26 @@ I hold two MBAs — Data Science & Analytics and Corporate Finance (Controllersh
 
 🔎 What drives me: curiosity, continuous learning, and the pursuit of consistent, impactful results.
 
-🚀 What I Do
+🚀 **What I Do**
 
 📊 Finance & Strategy: FP&A cycle management (budget, forecast, outlook), cost optimization, and strategic decision support.<br>
 📈 Data Analytics: Building dashboards, performance models, and decision-making tools with Power BI, Python, SQL, and Excel.<br>
 🤝 Collaboration: Skilled in bridging business & data, translating insights into measurable outcomes.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Programming & Data: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL<br>
 Data Visualization: Power BI, Tableau<br>
 Finance & Analytics: Advanced Excel, Financial Modeling, Forecasting<br>
 Tools & Others: Git/GitHub, APIs, Web Scraping<br>
 
-🌍 Languages
+🌍 **Languages**
 
 🇧🇷 Portuguese (Native)<br>
 🇬🇧 English (Fluent)<br>
 🇪🇸 Spanish (Advanced)
 
-Let's Connect
+**Let's Connect**
 
 🌐 [Portfolio Website](https://costaclara.github.io)<br>
 💼 [LinkedIn](https://LINKEDIN.COM/IN/CLARA-SANTOS-COSTA)<br>
