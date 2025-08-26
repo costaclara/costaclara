@@ -34,21 +34,26 @@ I hold two MBAs — Data Science & Analytics and Corporate Finance (Controllersh
 🛠️ Tech Stack
 
 Programming & Data: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL
+
 Data Visualization: Power BI, Tableau
+
 Finance & Analytics: Advanced Excel, Financial Modeling, Forecasting
+
 Tools & Others: Git/GitHub, APIs, Web Scraping
 
 🌍 Languages
 
 🇧🇷 Portuguese (Native)
+
 🇬🇧 English (Fluent)
+
 🇪🇸 Spanish (Advanced)
 
 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://costaclara.github.io)
+🌐 [Portfolio Website](https://costaclara.github.io)
 💼 [LinkedIn](https://LINKEDIN.COM/IN/CLARA-SANTOS-COSTA)
-📊 GitHub(https://github.com/costaclara)  
-📝 LeetCode(https://leetcode.com/u/costaclara4/)
-[![Medium](https://medium.com/@csc.clara4)
+📊 [GitHub](https://github.com/costaclara)  
+📝 [LeetCode](https://leetcode.com/u/costaclara4/)
+🌱 [Medium](https://medium.com/@csc.clara4)
 
